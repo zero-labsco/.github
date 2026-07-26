@@ -33,6 +33,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ## 📫 Contact | 联系方式
 
 - **Website**: [https://www.zerolabsco.com](https://www.zerolabsco.com)
+- **Email**: [contact@zerolabsco.com](mailto:contact@zerolabsco.com)
 - **GitHub**: [@zero-labsco](https://github.com/zero-labsco)
 
 
