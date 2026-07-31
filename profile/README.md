@@ -16,13 +16,10 @@ To accelerate software development by providing high-quality, well-maintained op
 
 ## 📦 Featured Projects | 特色项目
 
-| Project | Description | Stars | License |
-|---------|-------------|-------|---------|
-| [zero_inspector_kit](https://github.com/zero-labsco/zero_inspector_kit) | A Flutter plugin for in-app developer console with network request viewing, logging, database inspection, and route tracking. | [![Stars](https://img.shields.io/github/stars/zero-labsco/zero_inspector_kit)](https://github.com/zero-labsco/zero_inspector_kit) | GPL-3.0 |
-
-| 项目 | 描述 | 星标 | 许可证 |
-|------|------|------|--------|
-| [zero_inspector_kit](https://github.com/zero-labsco/zero_inspector_kit) | 一个 Flutter 插件，提供应用内开发者控制台，支持网络请求查看、日志、数据库检查和路由跟踪。 | [![Stars](https://img.shields.io/github/stars/zero-labsco/zero_inspector_kit)](https://github.com/zero-labsco/zero_inspector_kit) | GPL-3.0 |
+| Project 项目 | Description 描述 | Stars 星标 | License 许可证 |
+|--------------|------------------|------------|----------------|
+| [Zero Inspector Kit](https://github.com/zero-labsco/zero_inspector_kit) | A Flutter plugin for in-app developer console — network request viewing, logging, database inspection, and route tracking.<br>一个 Flutter 插件，提供应用内开发者控制台，支持网络请求查看、日志、数据库检查和路由跟踪。 | [![Stars](https://img.shields.io/github/stars/zero-labsco/zero_inspector_kit)](https://github.com/zero-labsco/zero_inspector_kit) | GPL-3.0 |
+| [Flutter Agent Kit](https://github.com/zero-labsco/flutter-agent-kit) | A toolkit for building AI agent-powered Flutter apps with ready-to-use components and integrations.<br>一套用于构建 AI 智能体驱动 Flutter 应用的工具包，提供开箱即用的组件与集成。 | [![Stars](https://img.shields.io/github/stars/zero-labsco/flutter-agent-kit)](https://github.com/zero-labsco/flutter-agent-kit) | MIT |
 
 ## 🤝 Contributing | 贡献
 
