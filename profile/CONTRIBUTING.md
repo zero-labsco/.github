@@ -8,6 +8,10 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 ## Getting Started | 开始贡献
 
+Follow these steps to contribute to any ZeroLabs project:
+
+按照以下步骤为任意 ZeroLabs 项目做出贡献：
+
 ### 1. Fork the Repository | 1. Fork 仓库
 
 Click the "Fork" button at the top of any repository to create your own copy.
@@ -40,6 +44,9 @@ git add .
 git commit -m "feat: add new feature"
 ```
 
+> 💡 We follow [Conventional Commits](https://www.conventionalcommits.org). Use prefixes like `feat:`, `fix:`, `docs:`, `chore:`.
+> 💡 我们遵循 [Conventional Commits](https://www.conventionalcommits.org) 规范，提交信息前缀使用 `feat:`、`fix:`、`docs:`、`chore:` 等。
+
 ### 6. Push to Your Fork | 6. 推送到你的 Fork
 
 ```bash
@@ -48,15 +55,17 @@ git push origin feature/your-feature-name
 
 ### 7. Create a Pull Request | 7. 创建 Pull Request
 
-Go to the original repository and click "New Pull Request".
+Go to the original repository and click "New Pull Request". Describe your changes clearly.
 
-前往原始仓库并点击 "New Pull Request"。
+前往原始仓库并点击 "New Pull Request"，清晰地描述你的改动。
 
 ---
 
 ## Code Style | 代码风格
 
 Please follow the code style guidelines for each project. Specific guidelines may vary by language:
+
+请遵循每个项目的代码风格指南。具体指南因语言而异：
 
 | Language | Formatter | Style Guide |
 |----------|-----------|-------------|
@@ -66,8 +75,6 @@ Please follow the code style guidelines for each project. Specific guidelines ma
 | Go | `gofmt` | [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) |
 | Rust | `rustfmt` | [Rust Style Guide](https://doc.rust-lang.org/style-guide/) |
 | Python | `black` + `flake8` | [PEP 8](https://peps.python.org/pep-0008/) |
-
-请遵循每个项目的代码风格指南。具体指南因语言而异：
 
 | 语言 | 格式化工具 | 风格指南 |
 |------|-----------|---------|
@@ -84,17 +91,25 @@ Please follow the code style guidelines for each project. Specific guidelines ma
 
 If you find a bug or have a feature request, please open an issue on GitHub with:
 
+如果你发现 bug 或有功能请求，请在 GitHub 上打开一个 issue，包含：
+
 - A clear description of the problem
 - Steps to reproduce (if applicable)
 - Expected behavior
 - Actual behavior
 
-如果你发现 bug 或有功能请求，请在 GitHub 上打开一个 issue，包含：
-
 - 问题的清晰描述
 - 复现步骤（如适用）
 - 预期行为
 - 实际行为
+
+---
+
+## Code of Conduct | 行为准则
+
+Be respectful, inclusive, and constructive. We aim to foster a welcoming community for everyone.
+
+请保持尊重、包容和建设性。我们致力于为所有人营造友好的社区氛围。
 
 ---
 
