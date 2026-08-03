@@ -1,8 +1,6 @@
 <div align="center">
 
-# Zero Labs
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Welcome+to+Zero+Labs+%F0%9F%91%8B;欢迎来到+Zero+Labs+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Welcome+to+Zero+Labs+%F0%9F%91%8B;欢迎来到+Zero+Labs+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-zerolabsco.com-38BDAE?style=flat-square&labelColor=222222)](https://www.zerolabsco.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zero%20Labs-black?style=flat-square&labelColor=222222&logo=github)](https://github.com/zero-labsco)
